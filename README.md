@@ -1,0 +1,1 @@
+# Documenta-o-de-condi-es-em-javascript
